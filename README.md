@@ -1,7 +1,5 @@
 # Crowd DJ
 
-**Crowd DJ won Best UI/Design at [Hackbeanpot 2017](https://hackbeanpot.com)**
-
 Crowd DJ is a web app that allows people who are at a party or social gathering with a DJ (who uses Spotify) to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue.
 
 
